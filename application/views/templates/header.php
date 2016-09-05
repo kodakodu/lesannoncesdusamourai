@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Budo91</title>
+		<title>Les annonces du samourai</title>
 		<link href="<?php echo base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
 		<link href="<?php echo base_url();?>assets/css/styles.css" rel="stylesheet">
 		<link rel="icon" href="<?php echo base_url();?>assets/images/favicon.ico" type="image/x-icon"/>
