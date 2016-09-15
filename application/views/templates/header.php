@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Les annonces du samourai</title>
+		<title>les annonces du samourai</title>
 		<link href="<?php echo base_url();?>assets/css/bootstrap.min.css" rel="stylesheet">
 		<link href="<?php echo base_url();?>assets/css/styles.css" rel="stylesheet">
 		<link rel="icon" href="<?php echo base_url();?>assets/images/favicon.ico" type="image/x-icon"/>
@@ -21,9 +21,6 @@
 						<!--<li class="active"><a href="http://localhost:8095/Budo91/index.php">Accueil</a></li>-->
 						<li>
 							<a href="<?php echo base_url();?>index.php/disciplines">Disciplines</a>
-						</li>
-						<li>
-							<a href="<?php echo base_url();?>index.php/clubs">Clubs</a>
 						</li>
 						<li>
 							<a href="<?php echo base_url();?>index.php/contact">Contact</a>
